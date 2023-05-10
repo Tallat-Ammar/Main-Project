@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "784726338195",
+    "project_id": "fyplct",
+    "storage_bucket": "fyplct.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784726338195:android:8c53e6a187d0b7a4c63b66",
+        "android_client_info": {
+          "package_name": "com.lct"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784726338195-haen1toc5ficjmv64ssp31mtet4sa3vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW10BSirsve9-hOGnJoF-Il-p_Z-MpdSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784726338195-haen1toc5ficjmv64ssp31mtet4sa3vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
